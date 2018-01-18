@@ -1,0 +1,1 @@
+import '../css/test2.css';
